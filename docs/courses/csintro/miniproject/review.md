@@ -2,24 +2,24 @@
 
 ![Take another look](/static/courses/csintro/miniproject/review.png)
 
-Take this time to review the concepts we have covered so far.
+이번에는 지금까지 살펴본 개념을 검토해 보십시오. 
 
-## Making
+## 만들기
 
-The micro:bit is very effective at bringing real things to life. It can be supported in a cardboard holder, attached to a wand, or even sewn into fabric. The design thinking process is a helpful way to gather more information about the person who will be using whatever you are designing.
+마이크로비트는 실제 사물에 생명을 불어넣는데 매우 효과적입니다. 이것은 판자로 지탱될 수도 있고, 지팡이에 붙이거나 심지어 천으로 꿰매어 질 수도 있습니다. 디자인 사고 과정은 여러분이 디자인 하는 것을 사용할 사람에 대한 정보를 더 모을 수 잇는 유용한 방법입니다. 
 
-## Processing and algorithms
+## 프로세싱과 알고리즘
 
-The code you write for the micro:bit processes data from its inputs, and outputs it in some way. An algorithm is a series of specific instructions, or steps, that solve a problem or accomplish a task.
+당신이 마이크로비트에 쓴 코드는 그것에 입력된 데이터를 처리하고 어떤 식으로든 출력합니다. 알고리즘은 문제를 해결하거나 작업을 수행하는 일종의 지침 또는 단계입니다. 
 
-## Variables
+## 변수
 
-Variables store information so that it can be accessed or referenced later. Some variables hold information that changes, and some hold information that stays constant. It is important to name your variables with something that explains what type of information it holds. Using variables in your code allows you to create algorithms that use mathematical operations to perform the same calculations every time, even when the values of your variables are different.
+변수는 나중에 접속하거나 참조할 수 있도록 정보를 저장합니다. 어떤 변수는 변경되는 정보를 보유하고 어떤 변수는 일정하게 유지되는 정보를 보유합니다. 변수에 포함된 정보의 유형을 설명할 수 있도록 변수의 이름을 지정하는 것이 중요합니다. 코드에 변수를 사용하면 변수 값이 달라지더라도 수학 연산을 사용하여 매번 동일한 계산을 수행하는 알고리즘을 만들 수 있습니다. 
 
-## Conditionals
+## 조건문
 
-Conditional statements tell the computer when to do something. They are used to create branches, or decision points, where a program can choose one path or the other based on the values of certain variables, or based on data from the micro:bit’s inputs. Conditional statements can be nested inside one another so that both conditions must be true in order for the enclosed statements to run.
+조건문은 컴퓨터에게 언제 무언가를 해야 하는 지 알려줍니다. 이것들은 프로그램이 특정 변수 값을 혹은 마이크로비트의 입력된 데이터를 기반으로 한 경로 혹은 다른 경로를 선택할 수 있는 분기 또는 의사 결정 지점을 만드는 데 사용됩니다. 조건문은 서로 중첩될 수 있고 이것이 실행되려면 두 조건이 모두 참이어야 합니다. 
 
-## Iteration and looping
+## 반복문
 
-Portions of your code can be made to run over and over by using a Repeat or a For block loop. This allows you to iterate over several different variables, or items in a group, and do something to each of them. You can also combine a conditional statement and a loop by using a While block, which will repeat until a certain condition becomes true. 
+반복 또는 For문을 사용하여 코드의 일부를 반복해서 실행할 수 있습니다. 이를 통해 여러 변수, 그룹의 항목을 반복하고 각각에 대해 작업을 수행할 수 있습니다. 또한 조건문과 While문을 결합하여 특정 조건이 참이 될 때까지 반복하게 할 수 있습니다. 

@@ -1,38 +1,38 @@
 # Activity: Collaboratively independent
 
-Teachers want their students to collaborate on projects but they also want to be able to hold them accountable for getting their work done. Many teachers struggle with assessing exactly how much each individual contributed to a group project, as well as making sure that everyone does his or her “fair share”.
+교사들은 학생들이 프로젝트에서 협력 작업하기를 원하지만 또한 자신들이 만든 결과물에 책임을 질 수 있기를 원합니다. 많은 교사들은 각 개인이 그룹 프로젝트에 정확히 얼마나 기여했는지 평가하고 모든 사람이 "공정한 몫"을 수행하도록 하는 데 어려움을 겪고 있습니다.
 
-The Mini-Project (and the Final Project) are not group projects. Students are asked to propose their own independent project and are expected to get it done. But they are not on their own in this process! We build in frequent opportunities for students to collaborate and share the collective knowledge of the class as they go. We ask them to be “collaboratively independent.”
+"미니-프로젝트"(및 최종 프로젝트)는 그룹 프로젝트가 아닙니다. 학생들은 그들 자신의 독립적인 프로젝트를 제안받고 이를 해낼 것으로 예상됩니다. 하지만 이 과정에서 그들은 혼자가 아닙니다! 우리는 학생들이 공동 작업을 할 수 있는 기회를 자주 마련하고 있으며 수업시간에 집단 지식을 공유하고 있습니다. 우리는 그들에게 "협력적으로 독립하라"고 요구합니다. 
 
-Here is how we structure our classes: 
+다음은 수업을 구성하는 방법입니다.: 
 
-## Beginning of class
+## 수업 시작 
 
-For groups of 15 or so, have students each **_briefly_** (no more than 30 seconds or so) report on their progress in front of the group:
-* One-line description of project
-* Their progress so far
-* Something they are going to work on figuring out today
+15명 정도로 구성된 그룹의 경우 그들의 진행상황을 그룹 앞에서 **_간략히_**(30초 이하) 보고하도록 합니다.:
+* 프로젝트 설명 한줄
+* 지금까지의 그들의 진행 상황
+* 그들이 오늘 해결해야 될 작업
 	
-It is important that everyone else is listening to each project and volunteering their help or solutions if they are figuring out the same thing or if they have solved that problem in a previous class.
+모든 사람들이 각 프로젝트에 귀를 기울이고, 동일한 문제를 해결했거나 이전 시간에 문제를 해결했던 것들을 도움 혹은 해결책을 자원하는 것이 중요합니다. 
 
->Example:
-_I’m working on a pinball machine. So far I have done the board and the ramp. Today I am going to be working on wiring the bumpers so that when the ball hits the bumper, the micro:bit detects it and displays the score._
+>예시:
+_나는 핀볼 기계를 다루고 있습니다. 지금까지 나는 판자와 경사로까지 마쳤습니다. 오늘은 펌퍼에 공이 부딪힐 때 마이크로비트가 범퍼를 감지하고 점수를 표시하도록 범퍼 배선을 작업할 예정입니다._
 
->Sample response from a classmate:
-_Yesterday I wired up my targets so that when you throw a ball it keeps score. I can show you how I did it._
+>학급 친구의 반응 예시:
+_어제 나는 공을 던질 때 점수가 유지되도록 목표물에 연결했습니다. 내가 어떻게 했는지 보여줄 수 있습니다._
 
-Ideally students who are working on projects should be aware of what other students are working on and what they are figuring out. It creates more opportunities for collaboration in the classroom and can encourage students to seek help from each other rather than all waiting in line to talk to you.
+프로젝트를 진행하는 이상적인 학생들은 다른 학생들이 무엇을 하고 있고 무엇을 이해하고 있는지 알고 있어야 합니다. 이것은 교실에서 더 많은 협동의 기회를 만들어내고 학생들이 교사에게 질문하기 위해 줄서서 기다리는 것보다 서로 도움을 구하독 격려할 수 있습니다. 
 
-It’s important to hear from everybody but it shouldn’t take more than five or ten minutes. For groups larger than 15 or 20 students, you may want to split them into two or three larger groups and have them report out to each other.
+모두의 의견을 듣는 것은 중요하지만 5분에서 10분이상 걸지지 않아야 합니다. 15 또는 20명 이사인 그룹의 경우, 두 그룹 혹은 세 그룹으로 나누어 서로 보고하도록 할 수 있습니다. 
 
 ![Quick progress report](/static/courses/csintro/miniproject/quick-progress-report.png)
 
-## During class
-This is a time to circulate and check in with students individually, starting with those students who seem to still be stuck from last time. For the most part, students should be working on their projects in small groups, helping each other wherever and whenever possible.
+## 수업 도중
+지금은 학생들이 지난 시간에 아직도 갇혀있는 것처럼 보이는 학생들부터 시작해서, 학생들을 개별적으로 순환시키고 확인하는 시간입니다. 대부분의 경우, 학생들은 작은 그룹으로 나누어 언제 어디서나 서로를 돕는 일을 해야 합니다.
 
-## End of class
-About ten minutes before the end of class, you can have students do a “work-in-progress” report. Gather the students together and have them move from table to table while each student presents one thing that he or she figured out during the class. This is really an informal presentation, and it is understood that it is not finished at all; it is still a “work in progress.” But everyone needs to show something, and the entire group needs to move as one throughout the classroom, almost like physicians making rounds in a hospital. This is an important way to spread ideas throughout the classroom, and to “cross-pollinate” with helpful tips and techniques.
+## 수업 마지막
+수업이 끝나기 약 10분 전에, 여러분은 학생들이 "진행중인 작업" 보고서를 작성하도록 할 수 있습니다. 학생들을 모아서 책상에서 책상으로 이동하게 하고 각 학생들은 수업중에 알아낸 것을 하나씩 보여줍니다. 이것은 비공식적인 발표이며 완료된 것이아니라고 이해되어야 한다; 이것은 아직도 "진행중인 작업"이다. 하지만 모든 학생들은 무언가 보여줄 필요가 있고, 전체 그룹은 하나가 되어 교실을 돌아다닐 필요가 있습니다. 이것은 아이디어를 교실 전체에 퍼뜨리고 유용한 팁과 기술을 "상호 비교"하는 중요한 방법입니다. 
 
-Work-in-progress reports should be short, no more than twenty or thirty seconds. If you have a large class, you might divide the class into several large groups and have them present to each other. 
+진행중인 작업 보고서는 짧아야 하고, 20초에서 30초 이내여야 합니다. 큰 반이 있으면 몇 개의 큰 그룹으로 나누어 서로 발표하게 할 수 있습니다. 
 
 ![Work in progress report](/static/courses/csintro/miniproject/work-in-progress-report.png)
